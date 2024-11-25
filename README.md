@@ -1,7 +1,6 @@
 # ADM-HW5
-Repository of Homework 5 for the course Algorithmic Methods of Data Mining. 
 
----
+Repository of Homework 5 for the course Algorithmic Methods of Data Mining. 
 
 ### Contents:
 - `main.ipynb`: main notebook with implementation of the various Questions;
